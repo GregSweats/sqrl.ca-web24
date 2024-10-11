@@ -1,4 +1,4 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
 
 settings:
   autoInstallPeers: true
@@ -202,7 +202,7 @@ packages:
   /@astrojs/rss@4.0.6:
     resolution: {integrity: sha512-hpfHz6OZVD4ME1ZmpNQim0yV0AOetVFUHv0vmL8+Bw4GNcmL0ibGkGtMv+PY72HLJUVfDtizrBjfN5HHg+LScA==}
     dependencies:
-      fast-xml-parser: 4.3.6
+      fast-xml-parser: 4.5.0
       kleur: 4.1.5
     dev: false
 
@@ -3808,8 +3808,8 @@ packages:
     resolution: {integrity: sha512-DCXu6Ifhqcks7TZKY3Hxp3y6qphY5SJZmrWMDrKcERSOXWQdMhU9Ig/PYrzyw/ul9jOIyh0N4M0tbC5hodg8dw==}
     dev: true
 
-  /fast-xml-parser@4.3.6:
-    resolution: {integrity: sha512-M2SovcRxD4+vC493Uc2GZVcZaj66CCJhWurC4viynVSTvrpErCShNcDz1lAho6n9REQKvL/ll4A4/fw6Y9z8nw==}
+  /fast-xml-parser@4.5.0:
+    resolution: {integrity: sha512-/PlTQCI96+fZMAOLMZK4CWG1ItCbfZ/0jx7UIJFChPNrx7tcEgerUgWbeieCM9MfHInUDyK8DWYZ+YrywDJuTg==}
     hasBin: true
     dependencies:
       strnum: 1.0.5
